@@ -1,0 +1,15 @@
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.exe
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.deps.json
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.runtimeconfig.json
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.dll
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\bin\Debug\net6.0\ref\PrecoMedio.dll
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.pdb
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.csproj.AssemblyReference.cache
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.AssemblyInfoInputs.cache
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.AssemblyInfo.cs
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.dll
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\ref\PrecoMedio.dll
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.pdb
+C:\Projetos\Estudando\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.genruntimeconfig.cache
